@@ -1,0 +1,31 @@
+C:\Users\LabInfo_2022\Desktop\DS2M\DS2M\Aula_14_02_22\bin\Debug\Aula_14_02_22.exe.config
+C:\Users\LabInfo_2022\Desktop\DS2M\DS2M\Aula_14_02_22\bin\Debug\Aula_14_02_22.exe
+C:\Users\LabInfo_2022\Desktop\DS2M\DS2M\Aula_14_02_22\bin\Debug\Aula_14_02_22.pdb
+C:\Users\LabInfo_2022\Desktop\DS2M\DS2M\Aula_14_02_22\obj\Debug\Aula_14_02_22.csprojAssemblyReference.cache
+C:\Users\LabInfo_2022\Desktop\DS2M\DS2M\Aula_14_02_22\obj\Debug\Aula_14_02_22.frmCal.resources
+C:\Users\LabInfo_2022\Desktop\DS2M\DS2M\Aula_14_02_22\obj\Debug\Aula_14_02_22.Properties.Resources.resources
+C:\Users\LabInfo_2022\Desktop\DS2M\DS2M\Aula_14_02_22\obj\Debug\Aula_14_02_22.csproj.GenerateResource.cache
+C:\Users\LabInfo_2022\Desktop\DS2M\DS2M\Aula_14_02_22\obj\Debug\Aula_14_02_22.csproj.CoreCompileInputs.cache
+C:\Users\LabInfo_2022\Desktop\DS2M\DS2M\Aula_14_02_22\obj\Debug\Aula_14_02_22.exe
+C:\Users\LabInfo_2022\Desktop\DS2M\DS2M\Aula_14_02_22\obj\Debug\Aula_14_02_22.pdb
+E:\DS2M\DS2M\Aula_14_02_22\bin\Debug\Aula_14_02_22.exe.config
+E:\DS2M\DS2M\Aula_14_02_22\bin\Debug\Aula_14_02_22.exe
+E:\DS2M\DS2M\Aula_14_02_22\bin\Debug\Aula_14_02_22.pdb
+E:\DS2M\DS2M\Aula_14_02_22\obj\Debug\Aula_14_02_22.csproj.AssemblyReference.cache
+E:\DS2M\DS2M\Aula_14_02_22\obj\Debug\Aula_14_02_22.csproj.SuggestedBindingRedirects.cache
+E:\DS2M\DS2M\Aula_14_02_22\obj\Debug\Aula_14_02_22.frmCal.resources
+E:\DS2M\DS2M\Aula_14_02_22\obj\Debug\Aula_14_02_22.Properties.Resources.resources
+E:\DS2M\DS2M\Aula_14_02_22\obj\Debug\Aula_14_02_22.csproj.GenerateResource.cache
+E:\DS2M\DS2M\Aula_14_02_22\obj\Debug\Aula_14_02_22.csproj.CoreCompileInputs.cache
+E:\DS2M\DS2M\Aula_14_02_22\obj\Debug\Aula_14_02_22.exe
+E:\DS2M\DS2M\Aula_14_02_22\obj\Debug\Aula_14_02_22.pdb
+E:\DS 2 SEMESTRE\DS2M\DS2M\Aula_14_02_22\bin\Debug\Aula_14_02_22.exe.config
+E:\DS 2 SEMESTRE\DS2M\DS2M\Aula_14_02_22\bin\Debug\Aula_14_02_22.exe
+E:\DS 2 SEMESTRE\DS2M\DS2M\Aula_14_02_22\bin\Debug\Aula_14_02_22.pdb
+E:\DS 2 SEMESTRE\DS2M\DS2M\Aula_14_02_22\obj\Debug\Aula_14_02_22.frmCal.resources
+E:\DS 2 SEMESTRE\DS2M\DS2M\Aula_14_02_22\obj\Debug\Aula_14_02_22.Properties.Resources.resources
+E:\DS 2 SEMESTRE\DS2M\DS2M\Aula_14_02_22\obj\Debug\Aula_14_02_22.csproj.GenerateResource.cache
+E:\DS 2 SEMESTRE\DS2M\DS2M\Aula_14_02_22\obj\Debug\Aula_14_02_22.csproj.CoreCompileInputs.cache
+E:\DS 2 SEMESTRE\DS2M\DS2M\Aula_14_02_22\obj\Debug\Aula_14_02_22.exe
+E:\DS 2 SEMESTRE\DS2M\DS2M\Aula_14_02_22\obj\Debug\Aula_14_02_22.pdb
+E:\DS 2 SEMESTRE\DS2M\DS2M\Aula_14_02_22\obj\Debug\Aula_14_02_22.csprojAssemblyReference.cache

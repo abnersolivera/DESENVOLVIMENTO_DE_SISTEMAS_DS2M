@@ -1,0 +1,13 @@
+
+DS2M/.vs/DS2M/v17/.suo
+DS2M/.vs/slnx.sqlite
+*.v2
+DS2M/DS2M/.vs/DS2M/v16/.suo
+DS2M/DS2M/.vs/DS2M/v17/.suo
+*.lock
+*.ide
+*.dll
+*.exe
+*.cache
+*.resources
+*.pdb

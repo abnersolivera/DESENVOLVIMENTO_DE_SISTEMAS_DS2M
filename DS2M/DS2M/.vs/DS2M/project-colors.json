@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "782702bf-4974-4476-b7c2-f80f7462a8d1": {
+      "ProjectGuid": "782702bf-4974-4476-b7c2-f80f7462a8d1",
+      "DisplayName": "Aula_14_02_22",
+      "ColorIndex": 0
+    },
+    "ad4f2983-a90b-4cb3-a2db-ce63abbea077": {
+      "ProjectGuid": "ad4f2983-a90b-4cb3-a2db-ce63abbea077",
+      "DisplayName": "Aula_17_02_22",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

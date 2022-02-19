@@ -1,0 +1,36 @@
+C:\Users\abner\Documents\ETEC\2 Modulo\DS\ESTUDO\DS2M\DS2M\Aula_10_02_22\bin\Debug\net5.0-windows\Aula_10_02_22.exe
+C:\Users\abner\Documents\ETEC\2 Modulo\DS\ESTUDO\DS2M\DS2M\Aula_10_02_22\bin\Debug\net5.0-windows\Aula_10_02_22.deps.json
+C:\Users\abner\Documents\ETEC\2 Modulo\DS\ESTUDO\DS2M\DS2M\Aula_10_02_22\bin\Debug\net5.0-windows\Aula_10_02_22.runtimeconfig.json
+C:\Users\abner\Documents\ETEC\2 Modulo\DS\ESTUDO\DS2M\DS2M\Aula_10_02_22\bin\Debug\net5.0-windows\Aula_10_02_22.runtimeconfig.dev.json
+C:\Users\abner\Documents\ETEC\2 Modulo\DS\ESTUDO\DS2M\DS2M\Aula_10_02_22\bin\Debug\net5.0-windows\Aula_10_02_22.dll
+C:\Users\abner\Documents\ETEC\2 Modulo\DS\ESTUDO\DS2M\DS2M\Aula_10_02_22\bin\Debug\net5.0-windows\ref\Aula_10_02_22.dll
+C:\Users\abner\Documents\ETEC\2 Modulo\DS\ESTUDO\DS2M\DS2M\Aula_10_02_22\bin\Debug\net5.0-windows\Aula_10_02_22.pdb
+C:\Users\abner\Documents\ETEC\2 Modulo\DS\ESTUDO\DS2M\DS2M\Aula_10_02_22\obj\Debug\net5.0-windows\Aula_10_02_22.csproj.AssemblyReference.cache
+C:\Users\abner\Documents\ETEC\2 Modulo\DS\ESTUDO\DS2M\DS2M\Aula_10_02_22\obj\Debug\net5.0-windows\Aula_10_02_22.frmCalc.resources
+C:\Users\abner\Documents\ETEC\2 Modulo\DS\ESTUDO\DS2M\DS2M\Aula_10_02_22\obj\Debug\net5.0-windows\Aula_10_02_22.csproj.GenerateResource.cache
+C:\Users\abner\Documents\ETEC\2 Modulo\DS\ESTUDO\DS2M\DS2M\Aula_10_02_22\obj\Debug\net5.0-windows\Aula_10_02_22.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abner\Documents\ETEC\2 Modulo\DS\ESTUDO\DS2M\DS2M\Aula_10_02_22\obj\Debug\net5.0-windows\Aula_10_02_22.AssemblyInfoInputs.cache
+C:\Users\abner\Documents\ETEC\2 Modulo\DS\ESTUDO\DS2M\DS2M\Aula_10_02_22\obj\Debug\net5.0-windows\Aula_10_02_22.AssemblyInfo.cs
+C:\Users\abner\Documents\ETEC\2 Modulo\DS\ESTUDO\DS2M\DS2M\Aula_10_02_22\obj\Debug\net5.0-windows\Aula_10_02_22.csproj.CoreCompileInputs.cache
+C:\Users\abner\Documents\ETEC\2 Modulo\DS\ESTUDO\DS2M\DS2M\Aula_10_02_22\obj\Debug\net5.0-windows\Aula_10_02_22.dll
+C:\Users\abner\Documents\ETEC\2 Modulo\DS\ESTUDO\DS2M\DS2M\Aula_10_02_22\obj\Debug\net5.0-windows\ref\Aula_10_02_22.dll
+C:\Users\abner\Documents\ETEC\2 Modulo\DS\ESTUDO\DS2M\DS2M\Aula_10_02_22\obj\Debug\net5.0-windows\Aula_10_02_22.pdb
+C:\Users\abner\Documents\ETEC\2 Modulo\DS\ESTUDO\DS2M\DS2M\Aula_10_02_22\obj\Debug\net5.0-windows\Aula_10_02_22.genruntimeconfig.cache
+F:\DS 2 SEMESTRE\DS2M\DS2M\Aula_10_02_22\bin\Debug\net5.0-windows\Aula_10_02_22.exe
+F:\DS 2 SEMESTRE\DS2M\DS2M\Aula_10_02_22\bin\Debug\net5.0-windows\Aula_10_02_22.deps.json
+F:\DS 2 SEMESTRE\DS2M\DS2M\Aula_10_02_22\bin\Debug\net5.0-windows\Aula_10_02_22.runtimeconfig.json
+F:\DS 2 SEMESTRE\DS2M\DS2M\Aula_10_02_22\bin\Debug\net5.0-windows\Aula_10_02_22.runtimeconfig.dev.json
+F:\DS 2 SEMESTRE\DS2M\DS2M\Aula_10_02_22\bin\Debug\net5.0-windows\Aula_10_02_22.dll
+F:\DS 2 SEMESTRE\DS2M\DS2M\Aula_10_02_22\bin\Debug\net5.0-windows\ref\Aula_10_02_22.dll
+F:\DS 2 SEMESTRE\DS2M\DS2M\Aula_10_02_22\bin\Debug\net5.0-windows\Aula_10_02_22.pdb
+F:\DS 2 SEMESTRE\DS2M\DS2M\Aula_10_02_22\obj\Debug\net5.0-windows\Aula_10_02_22.csproj.AssemblyReference.cache
+F:\DS 2 SEMESTRE\DS2M\DS2M\Aula_10_02_22\obj\Debug\net5.0-windows\Aula_10_02_22.frmCalc.resources
+F:\DS 2 SEMESTRE\DS2M\DS2M\Aula_10_02_22\obj\Debug\net5.0-windows\Aula_10_02_22.csproj.GenerateResource.cache
+F:\DS 2 SEMESTRE\DS2M\DS2M\Aula_10_02_22\obj\Debug\net5.0-windows\Aula_10_02_22.GeneratedMSBuildEditorConfig.editorconfig
+F:\DS 2 SEMESTRE\DS2M\DS2M\Aula_10_02_22\obj\Debug\net5.0-windows\Aula_10_02_22.AssemblyInfoInputs.cache
+F:\DS 2 SEMESTRE\DS2M\DS2M\Aula_10_02_22\obj\Debug\net5.0-windows\Aula_10_02_22.AssemblyInfo.cs
+F:\DS 2 SEMESTRE\DS2M\DS2M\Aula_10_02_22\obj\Debug\net5.0-windows\Aula_10_02_22.csproj.CoreCompileInputs.cache
+F:\DS 2 SEMESTRE\DS2M\DS2M\Aula_10_02_22\obj\Debug\net5.0-windows\Aula_10_02_22.dll
+F:\DS 2 SEMESTRE\DS2M\DS2M\Aula_10_02_22\obj\Debug\net5.0-windows\ref\Aula_10_02_22.dll
+F:\DS 2 SEMESTRE\DS2M\DS2M\Aula_10_02_22\obj\Debug\net5.0-windows\Aula_10_02_22.pdb
+F:\DS 2 SEMESTRE\DS2M\DS2M\Aula_10_02_22\obj\Debug\net5.0-windows\Aula_10_02_22.genruntimeconfig.cache
