@@ -10,7 +10,17 @@
       "ProjectGuid": "ad4f2983-a90b-4cb3-a2db-ce63abbea077",
       "DisplayName": "Aula_17_02_22",
       "ColorIndex": 1
+    },
+    "4e7fe4c4-6513-41c2-bffc-15f9eb452314": {
+      "ProjectGuid": "4e7fe4c4-6513-41c2-bffc-15f9eb452314",
+      "DisplayName": "Aula_21_02_22",
+      "ColorIndex": 2
+    },
+    "00171824-d2c2-45c2-8619-410765b3308e": {
+      "ProjectGuid": "00171824-d2c2-45c2-8619-410765b3308e",
+      "DisplayName": "Aula_24_02_22",
+      "ColorIndex": 3
     }
   },
-  "NextColorIndex": 2
+  "NextColorIndex": 4
 }

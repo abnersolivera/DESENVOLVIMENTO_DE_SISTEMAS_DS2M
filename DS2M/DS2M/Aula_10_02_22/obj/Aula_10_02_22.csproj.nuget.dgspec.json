@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\DS 2 SEMESTRE\\DS2M\\DS2M\\Aula_10_02_22\\Aula_10_02_22.csproj": {}
+    "C:\\Users\\abner\\Documents\\ETEC\\2 Modulo\\DS\\ESTUDO\\DESENVOLVIMENTO_DE_SISTEMAS_DS2M\\DS2M\\DS2M\\Aula_10_02_22\\Aula_10_02_22.csproj": {}
   },
   "projects": {
-    "F:\\DS 2 SEMESTRE\\DS2M\\DS2M\\Aula_10_02_22\\Aula_10_02_22.csproj": {
+    "C:\\Users\\abner\\Documents\\ETEC\\2 Modulo\\DS\\ESTUDO\\DESENVOLVIMENTO_DE_SISTEMAS_DS2M\\DS2M\\DS2M\\Aula_10_02_22\\Aula_10_02_22.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\DS 2 SEMESTRE\\DS2M\\DS2M\\Aula_10_02_22\\Aula_10_02_22.csproj",
+        "projectUniqueName": "C:\\Users\\abner\\Documents\\ETEC\\2 Modulo\\DS\\ESTUDO\\DESENVOLVIMENTO_DE_SISTEMAS_DS2M\\DS2M\\DS2M\\Aula_10_02_22\\Aula_10_02_22.csproj",
         "projectName": "Aula_10_02_22",
-        "projectPath": "F:\\DS 2 SEMESTRE\\DS2M\\DS2M\\Aula_10_02_22\\Aula_10_02_22.csproj",
+        "projectPath": "C:\\Users\\abner\\Documents\\ETEC\\2 Modulo\\DS\\ESTUDO\\DESENVOLVIMENTO_DE_SISTEMAS_DS2M\\DS2M\\DS2M\\Aula_10_02_22\\Aula_10_02_22.csproj",
         "packagesPath": "C:\\Users\\abner\\.nuget\\packages\\",
-        "outputPath": "F:\\DS 2 SEMESTRE\\DS2M\\DS2M\\Aula_10_02_22\\obj\\",
+        "outputPath": "C:\\Users\\abner\\Documents\\ETEC\\2 Modulo\\DS\\ESTUDO\\DESENVOLVIMENTO_DE_SISTEMAS_DS2M\\DS2M\\DS2M\\Aula_10_02_22\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\abner\\AppData\\Roaming\\NuGet\\NuGet.Config",

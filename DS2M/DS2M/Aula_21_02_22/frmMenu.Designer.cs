@@ -1,16 +1,16 @@
-﻿namespace Aula_17_02_22
+﻿namespace Aula_21_02_22
 {
     partial class frmMenu
     {
         /// <summary>
-        /// Required designer variable.
+        /// Variável de designer necessária.
         /// </summary>
         private System.ComponentModel.IContainer components = null;
 
         /// <summary>
-        /// Clean up any resources being used.
+        /// Limpar os recursos que estão sendo usados.
         /// </summary>
-        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        /// <param name="disposing">true se for necessário descartar os recursos gerenciados; caso contrário, false.</param>
         protected override void Dispose(bool disposing)
         {
             if (disposing && (components != null))
@@ -20,25 +20,22 @@
             base.Dispose(disposing);
         }
 
-        #region Windows Form Designer generated code
+        #region Código gerado pelo Windows Form Designer
 
         /// <summary>
-        /// Required method for Designer support - do not modify
-        /// the contents of this method with the code editor.
+        /// Método necessário para suporte ao Designer - não modifique 
+        /// o conteúdo deste método com o editor de código.
         /// </summary>
         private void InitializeComponent()
         {
             this.menuStrip1 = new System.Windows.Forms.MenuStrip();
             this.calculosToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.comBotõesToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.comRadioButtonsToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.calculadoraSuperToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.comBoToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.comRadioToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.calculadorSuperToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.toolStripMenuItem1 = new System.Windows.Forms.ToolStripSeparator();
             this.sairToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.janelasToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.cascataToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.verticalToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.horizontalToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.ajudaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
@@ -58,34 +55,34 @@
             // calculosToolStripMenuItem
             // 
             this.calculosToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.comBotõesToolStripMenuItem,
-            this.comRadioButtonsToolStripMenuItem,
-            this.calculadoraSuperToolStripMenuItem,
+            this.comBoToolStripMenuItem,
+            this.comRadioToolStripMenuItem,
+            this.calculadorSuperToolStripMenuItem,
             this.toolStripMenuItem1,
             this.sairToolStripMenuItem});
             this.calculosToolStripMenuItem.Name = "calculosToolStripMenuItem";
             this.calculosToolStripMenuItem.Size = new System.Drawing.Size(64, 20);
             this.calculosToolStripMenuItem.Text = "Calculos";
             // 
-            // comBotõesToolStripMenuItem
+            // comBoToolStripMenuItem
             // 
-            this.comBotõesToolStripMenuItem.Name = "comBotõesToolStripMenuItem";
-            this.comBotõesToolStripMenuItem.ShortcutKeys = ((System.Windows.Forms.Keys)((System.Windows.Forms.Keys.Control | System.Windows.Forms.Keys.B)));
-            this.comBotõesToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
-            this.comBotõesToolStripMenuItem.Text = "Com Botões";
-            this.comBotõesToolStripMenuItem.Click += new System.EventHandler(this.ComBotõesToolStripMenuItem_Click);
+            this.comBoToolStripMenuItem.Name = "comBoToolStripMenuItem";
+            this.comBoToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.comBoToolStripMenuItem.Text = "Com Botões";
+            this.comBoToolStripMenuItem.Click += new System.EventHandler(this.ComBoToolStripMenuItem_Click);
             // 
-            // comRadioButtonsToolStripMenuItem
+            // comRadioToolStripMenuItem
             // 
-            this.comRadioButtonsToolStripMenuItem.Name = "comRadioButtonsToolStripMenuItem";
-            this.comRadioButtonsToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
-            this.comRadioButtonsToolStripMenuItem.Text = "Com RadioButtons";
+            this.comRadioToolStripMenuItem.Name = "comRadioToolStripMenuItem";
+            this.comRadioToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.comRadioToolStripMenuItem.Text = "Com RadioButtons";
+            this.comRadioToolStripMenuItem.Click += new System.EventHandler(this.ComRadioToolStripMenuItem_Click);
             // 
-            // calculadoraSuperToolStripMenuItem
+            // calculadorSuperToolStripMenuItem
             // 
-            this.calculadoraSuperToolStripMenuItem.Name = "calculadoraSuperToolStripMenuItem";
-            this.calculadoraSuperToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
-            this.calculadoraSuperToolStripMenuItem.Text = "Calculadora Super";
+            this.calculadorSuperToolStripMenuItem.Name = "calculadorSuperToolStripMenuItem";
+            this.calculadorSuperToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.calculadorSuperToolStripMenuItem.Text = "Calculador Super";
             // 
             // toolStripMenuItem1
             // 
@@ -96,35 +93,14 @@
             // 
             this.sairToolStripMenuItem.Name = "sairToolStripMenuItem";
             this.sairToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
-            this.sairToolStripMenuItem.Text = "&Sair";
+            this.sairToolStripMenuItem.Text = "Sair";
+            this.sairToolStripMenuItem.Click += new System.EventHandler(this.sairToolStripMenuItem_Click);
             // 
             // janelasToolStripMenuItem
             // 
-            this.janelasToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.cascataToolStripMenuItem,
-            this.verticalToolStripMenuItem,
-            this.horizontalToolStripMenuItem});
             this.janelasToolStripMenuItem.Name = "janelasToolStripMenuItem";
             this.janelasToolStripMenuItem.Size = new System.Drawing.Size(56, 20);
             this.janelasToolStripMenuItem.Text = "Janelas";
-            // 
-            // cascataToolStripMenuItem
-            // 
-            this.cascataToolStripMenuItem.Name = "cascataToolStripMenuItem";
-            this.cascataToolStripMenuItem.Size = new System.Drawing.Size(129, 22);
-            this.cascataToolStripMenuItem.Text = "Cascata";
-            // 
-            // verticalToolStripMenuItem
-            // 
-            this.verticalToolStripMenuItem.Name = "verticalToolStripMenuItem";
-            this.verticalToolStripMenuItem.Size = new System.Drawing.Size(129, 22);
-            this.verticalToolStripMenuItem.Text = "Vertical";
-            // 
-            // horizontalToolStripMenuItem
-            // 
-            this.horizontalToolStripMenuItem.Name = "horizontalToolStripMenuItem";
-            this.horizontalToolStripMenuItem.Size = new System.Drawing.Size(129, 22);
-            this.horizontalToolStripMenuItem.Text = "Horizontal";
             // 
             // ajudaToolStripMenuItem
             // 
@@ -141,7 +117,7 @@
             this.IsMdiContainer = true;
             this.MainMenuStrip = this.menuStrip1;
             this.Name = "frmMenu";
-            this.Text = "frmMenu";
+            this.Text = "Menu";
             this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
             this.menuStrip1.ResumeLayout(false);
             this.menuStrip1.PerformLayout();
@@ -154,15 +130,13 @@
 
         private System.Windows.Forms.MenuStrip menuStrip1;
         private System.Windows.Forms.ToolStripMenuItem calculosToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem comBotõesToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem comRadioButtonsToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem calculadoraSuperToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem comBoToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem janelasToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem ajudaToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem comRadioToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem calculadorSuperToolStripMenuItem;
         private System.Windows.Forms.ToolStripSeparator toolStripMenuItem1;
         private System.Windows.Forms.ToolStripMenuItem sairToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem janelasToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem cascataToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem verticalToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem horizontalToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem ajudaToolStripMenuItem;
     }
 }
+
