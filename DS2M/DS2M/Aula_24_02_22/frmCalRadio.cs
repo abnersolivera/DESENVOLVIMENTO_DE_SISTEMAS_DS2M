@@ -78,5 +78,10 @@ namespace Aula_24_02_22
         {
             lstHistorico.Items.Clear();
         }
+
+        private void lstHistorico_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

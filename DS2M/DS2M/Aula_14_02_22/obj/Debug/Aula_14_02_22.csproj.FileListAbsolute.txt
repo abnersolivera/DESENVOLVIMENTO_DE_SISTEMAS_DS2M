@@ -29,13 +29,3 @@ E:\DS 2 SEMESTRE\DS2M\DS2M\Aula_14_02_22\obj\Debug\Aula_14_02_22.csproj.CoreComp
 E:\DS 2 SEMESTRE\DS2M\DS2M\Aula_14_02_22\obj\Debug\Aula_14_02_22.exe
 E:\DS 2 SEMESTRE\DS2M\DS2M\Aula_14_02_22\obj\Debug\Aula_14_02_22.pdb
 E:\DS 2 SEMESTRE\DS2M\DS2M\Aula_14_02_22\obj\Debug\Aula_14_02_22.csprojAssemblyReference.cache
-C:\Users\abner\Documents\ETEC\2 Modulo\DS\ESTUDO\DESENVOLVIMENTO_DE_SISTEMAS_DS2M\DS2M\DS2M\Aula_14_02_22\bin\Debug\Aula_14_02_22.exe.config
-C:\Users\abner\Documents\ETEC\2 Modulo\DS\ESTUDO\DESENVOLVIMENTO_DE_SISTEMAS_DS2M\DS2M\DS2M\Aula_14_02_22\bin\Debug\Aula_14_02_22.exe
-C:\Users\abner\Documents\ETEC\2 Modulo\DS\ESTUDO\DESENVOLVIMENTO_DE_SISTEMAS_DS2M\DS2M\DS2M\Aula_14_02_22\bin\Debug\Aula_14_02_22.pdb
-C:\Users\abner\Documents\ETEC\2 Modulo\DS\ESTUDO\DESENVOLVIMENTO_DE_SISTEMAS_DS2M\DS2M\DS2M\Aula_14_02_22\obj\Debug\Aula_14_02_22.csproj.AssemblyReference.cache
-C:\Users\abner\Documents\ETEC\2 Modulo\DS\ESTUDO\DESENVOLVIMENTO_DE_SISTEMAS_DS2M\DS2M\DS2M\Aula_14_02_22\obj\Debug\Aula_14_02_22.frmCal.resources
-C:\Users\abner\Documents\ETEC\2 Modulo\DS\ESTUDO\DESENVOLVIMENTO_DE_SISTEMAS_DS2M\DS2M\DS2M\Aula_14_02_22\obj\Debug\Aula_14_02_22.Properties.Resources.resources
-C:\Users\abner\Documents\ETEC\2 Modulo\DS\ESTUDO\DESENVOLVIMENTO_DE_SISTEMAS_DS2M\DS2M\DS2M\Aula_14_02_22\obj\Debug\Aula_14_02_22.csproj.GenerateResource.cache
-C:\Users\abner\Documents\ETEC\2 Modulo\DS\ESTUDO\DESENVOLVIMENTO_DE_SISTEMAS_DS2M\DS2M\DS2M\Aula_14_02_22\obj\Debug\Aula_14_02_22.csproj.CoreCompileInputs.cache
-C:\Users\abner\Documents\ETEC\2 Modulo\DS\ESTUDO\DESENVOLVIMENTO_DE_SISTEMAS_DS2M\DS2M\DS2M\Aula_14_02_22\obj\Debug\Aula_14_02_22.exe
-C:\Users\abner\Documents\ETEC\2 Modulo\DS\ESTUDO\DESENVOLVIMENTO_DE_SISTEMAS_DS2M\DS2M\DS2M\Aula_14_02_22\obj\Debug\Aula_14_02_22.pdb

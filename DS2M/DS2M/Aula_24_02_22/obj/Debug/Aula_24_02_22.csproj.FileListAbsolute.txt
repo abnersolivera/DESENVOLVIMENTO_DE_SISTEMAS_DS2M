@@ -24,16 +24,16 @@ E:\DS 2 SEMESTRE\DS2M\DS2M\Aula_24_02_22\obj\Debug\Aula_24_02_22.csproj.Generate
 E:\DS 2 SEMESTRE\DS2M\DS2M\Aula_24_02_22\obj\Debug\Aula_24_02_22.csproj.CoreCompileInputs.cache
 E:\DS 2 SEMESTRE\DS2M\DS2M\Aula_24_02_22\obj\Debug\Aula_24_02_22.exe
 E:\DS 2 SEMESTRE\DS2M\DS2M\Aula_24_02_22\obj\Debug\Aula_24_02_22.pdb
-C:\Users\abner\Documents\ETEC\2 Modulo\DS\ESTUDO\DESENVOLVIMENTO_DE_SISTEMAS_DS2M\DS2M\DS2M\Aula_24_02_22\bin\Debug\Aula_24_02_22.exe.config
-C:\Users\abner\Documents\ETEC\2 Modulo\DS\ESTUDO\DESENVOLVIMENTO_DE_SISTEMAS_DS2M\DS2M\DS2M\Aula_24_02_22\bin\Debug\Aula_24_02_22.exe
-C:\Users\abner\Documents\ETEC\2 Modulo\DS\ESTUDO\DESENVOLVIMENTO_DE_SISTEMAS_DS2M\DS2M\DS2M\Aula_24_02_22\bin\Debug\Aula_24_02_22.pdb
-C:\Users\abner\Documents\ETEC\2 Modulo\DS\ESTUDO\DESENVOLVIMENTO_DE_SISTEMAS_DS2M\DS2M\DS2M\Aula_24_02_22\obj\Debug\Aula_24_02_22.csproj.AssemblyReference.cache
-C:\Users\abner\Documents\ETEC\2 Modulo\DS\ESTUDO\DESENVOLVIMENTO_DE_SISTEMAS_DS2M\DS2M\DS2M\Aula_24_02_22\obj\Debug\Aula_24_02_22.frmCalBot.resources
-C:\Users\abner\Documents\ETEC\2 Modulo\DS\ESTUDO\DESENVOLVIMENTO_DE_SISTEMAS_DS2M\DS2M\DS2M\Aula_24_02_22\obj\Debug\Aula_24_02_22.frmCalRadio.resources
-C:\Users\abner\Documents\ETEC\2 Modulo\DS\ESTUDO\DESENVOLVIMENTO_DE_SISTEMAS_DS2M\DS2M\DS2M\Aula_24_02_22\obj\Debug\Aula_24_02_22.frmMenu.resources
-C:\Users\abner\Documents\ETEC\2 Modulo\DS\ESTUDO\DESENVOLVIMENTO_DE_SISTEMAS_DS2M\DS2M\DS2M\Aula_24_02_22\obj\Debug\Aula_24_02_22.frmSuperCal.resources
-C:\Users\abner\Documents\ETEC\2 Modulo\DS\ESTUDO\DESENVOLVIMENTO_DE_SISTEMAS_DS2M\DS2M\DS2M\Aula_24_02_22\obj\Debug\Aula_24_02_22.Properties.Resources.resources
-C:\Users\abner\Documents\ETEC\2 Modulo\DS\ESTUDO\DESENVOLVIMENTO_DE_SISTEMAS_DS2M\DS2M\DS2M\Aula_24_02_22\obj\Debug\Aula_24_02_22.csproj.GenerateResource.cache
-C:\Users\abner\Documents\ETEC\2 Modulo\DS\ESTUDO\DESENVOLVIMENTO_DE_SISTEMAS_DS2M\DS2M\DS2M\Aula_24_02_22\obj\Debug\Aula_24_02_22.csproj.CoreCompileInputs.cache
-C:\Users\abner\Documents\ETEC\2 Modulo\DS\ESTUDO\DESENVOLVIMENTO_DE_SISTEMAS_DS2M\DS2M\DS2M\Aula_24_02_22\obj\Debug\Aula_24_02_22.exe
-C:\Users\abner\Documents\ETEC\2 Modulo\DS\ESTUDO\DESENVOLVIMENTO_DE_SISTEMAS_DS2M\DS2M\DS2M\Aula_24_02_22\obj\Debug\Aula_24_02_22.pdb
+F:\DS 2 SEMESTRE\DS2M\DS2M\Aula_24_02_22\bin\Debug\Aula_24_02_22.exe.config
+F:\DS 2 SEMESTRE\DS2M\DS2M\Aula_24_02_22\bin\Debug\Aula_24_02_22.exe
+F:\DS 2 SEMESTRE\DS2M\DS2M\Aula_24_02_22\bin\Debug\Aula_24_02_22.pdb
+F:\DS 2 SEMESTRE\DS2M\DS2M\Aula_24_02_22\obj\Debug\Aula_24_02_22.csproj.AssemblyReference.cache
+F:\DS 2 SEMESTRE\DS2M\DS2M\Aula_24_02_22\obj\Debug\Aula_24_02_22.frmCalBot.resources
+F:\DS 2 SEMESTRE\DS2M\DS2M\Aula_24_02_22\obj\Debug\Aula_24_02_22.frmCalRadio.resources
+F:\DS 2 SEMESTRE\DS2M\DS2M\Aula_24_02_22\obj\Debug\Aula_24_02_22.frmMenu.resources
+F:\DS 2 SEMESTRE\DS2M\DS2M\Aula_24_02_22\obj\Debug\Aula_24_02_22.frmSuperCal.resources
+F:\DS 2 SEMESTRE\DS2M\DS2M\Aula_24_02_22\obj\Debug\Aula_24_02_22.Properties.Resources.resources
+F:\DS 2 SEMESTRE\DS2M\DS2M\Aula_24_02_22\obj\Debug\Aula_24_02_22.csproj.GenerateResource.cache
+F:\DS 2 SEMESTRE\DS2M\DS2M\Aula_24_02_22\obj\Debug\Aula_24_02_22.csproj.CoreCompileInputs.cache
+F:\DS 2 SEMESTRE\DS2M\DS2M\Aula_24_02_22\obj\Debug\Aula_24_02_22.exe
+F:\DS 2 SEMESTRE\DS2M\DS2M\Aula_24_02_22\obj\Debug\Aula_24_02_22.pdb

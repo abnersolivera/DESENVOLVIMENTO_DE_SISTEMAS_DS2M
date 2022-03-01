@@ -190,6 +190,7 @@ namespace Aula_24_02_22
             this.lstHistorico.Name = "lstHistorico";
             this.lstHistorico.Size = new System.Drawing.Size(252, 160);
             this.lstHistorico.TabIndex = 4;
+            this.lstHistorico.SelectedIndexChanged += new System.EventHandler(this.lstHistorico_SelectedIndexChanged);
             // 
             // btnLimparHistoricos
             // 
