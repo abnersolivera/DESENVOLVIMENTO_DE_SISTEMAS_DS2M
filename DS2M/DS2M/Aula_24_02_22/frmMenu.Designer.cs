@@ -115,21 +115,21 @@ namespace Aula_24_02_22
             // horizontalmenteToolStripMenuItem
             // 
             this.horizontalmenteToolStripMenuItem.Name = "horizontalmenteToolStripMenuItem";
-            this.horizontalmenteToolStripMenuItem.Size = new System.Drawing.Size(163, 22);
+            this.horizontalmenteToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.horizontalmenteToolStripMenuItem.Text = "Horizontalmente";
             this.horizontalmenteToolStripMenuItem.Click += new System.EventHandler(this.horizontalmenteToolStripMenuItem_Click);
             // 
             // verticalmenteToolStripMenuItem
             // 
             this.verticalmenteToolStripMenuItem.Name = "verticalmenteToolStripMenuItem";
-            this.verticalmenteToolStripMenuItem.Size = new System.Drawing.Size(163, 22);
+            this.verticalmenteToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.verticalmenteToolStripMenuItem.Text = "Verticalmente";
             this.verticalmenteToolStripMenuItem.Click += new System.EventHandler(this.verticalmenteToolStripMenuItem_Click);
             // 
             // cascataToolStripMenuItem
             // 
             this.cascataToolStripMenuItem.Name = "cascataToolStripMenuItem";
-            this.cascataToolStripMenuItem.Size = new System.Drawing.Size(163, 22);
+            this.cascataToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.cascataToolStripMenuItem.Text = "Cascata";
             this.cascataToolStripMenuItem.Click += new System.EventHandler(this.cascataToolStripMenuItem_Click);
             // 
@@ -143,7 +143,7 @@ namespace Aula_24_02_22
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.SystemColors.ControlDarkDark;
+            this.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.ClientSize = new System.Drawing.Size(800, 450);
             this.Controls.Add(this.menuStrip1);
             this.IsMdiContainer = true;

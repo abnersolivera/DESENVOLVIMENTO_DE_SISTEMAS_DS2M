@@ -82,7 +82,7 @@ namespace Aula_24_02_22
                 valor2 = decimal.Parse(txtValorDigitado.Text, CultureInfo.InvariantCulture);
             }
             catch(FormatException)
-            {
+            {                
                 lblOperacao.Text = "";
                 MessageBox.Show("ERRO!\nFavor digitar a operação desejada novamente\nE o número para realizar a operação");
             }
@@ -106,8 +106,24 @@ namespace Aula_24_02_22
                     }
                 case "DIVISAO":
                     {
-                        txtValorDigitado.Text = Convert.ToString(valor1 / valor2);
-                        break;
+                        try
+                        {
+                            txtValorDigitado.Text = Convert.ToString(valor1 / valor2);
+                            break;
+
+                        }
+                        catch (FormatException)
+                        {
+                            MessageBox.Show("ERRO!\nFavor digitar a operação desejada\nE o número para realizar a operação");
+                            valor1 = decimal.Parse(txtValorDigitado.Text, CultureInfo.InvariantCulture);
+                            break;
+                        }
+                        catch (DivideByZeroException)
+                        {
+                            lblOperacao.Text = "";
+                            MessageBox.Show("O valor não é divisivel");
+                            break;
+                        }
                     }
                 case "PORCENTAGEM":
                     {
@@ -115,7 +131,10 @@ namespace Aula_24_02_22
                         break;
                     }
             }
-            lstHistorico.Items.Add(valor1 + " " + lblOperacao.Text + " " + valor2 + " = " + txtValorDigitado.Text);
+            if (lblOperacao.Text != "")
+            {
+                lstHistorico.Items.Add(valor1 + " " + lblOperacao.Text + " " + valor2 + " = " + txtValorDigitado.Text);
+            }
         }
 
         private void btnsubtracao_Click(object sender, EventArgs e)
@@ -130,6 +149,7 @@ namespace Aula_24_02_22
             catch(FormatException)
             {
                 MessageBox.Show("ERRO!\nFavor digitar a operação desejada\nE o número para realizar a operação");
+                valor1 = decimal.Parse(txtValorDigitado.Text, CultureInfo.InvariantCulture);
             }
         }
 
@@ -145,6 +165,7 @@ namespace Aula_24_02_22
             catch(FormatException)
             {
                 MessageBox.Show("ERRO!\nFavor digitar a operação desejada\nE o número para realizar a operação");
+                valor1 = decimal.Parse(txtValorDigitado.Text, CultureInfo.InvariantCulture);
             }
         }
 
@@ -160,11 +181,13 @@ namespace Aula_24_02_22
             catch(FormatException)
             {
                 MessageBox.Show("ERRO!\nFavor digitar a operação desejada\nE o número para realizar a operação");
+                valor1 = decimal.Parse(txtValorDigitado.Text, CultureInfo.InvariantCulture);
             }
             catch (DivideByZeroException)
             {
                 lblOperacao.Text = "";
                 MessageBox.Show("O valor não é divisivel");
+                valor1 = decimal.Parse(txtValorDigitado.Text, CultureInfo.InvariantCulture);
             }
         }
 
@@ -180,6 +203,7 @@ namespace Aula_24_02_22
             catch (FormatException)
             {
                 MessageBox.Show("ERRO!\nFavor digitar a operação desejada\nE o número para realizar a operação");
+                valor1 = decimal.Parse(txtValorDigitado.Text, CultureInfo.InvariantCulture);
             }
         }
 
@@ -195,6 +219,7 @@ namespace Aula_24_02_22
             catch (FormatException)
             {
                 MessageBox.Show("ERRO!\nFavor digitar a operação desejada\nE o número para realizar a operação");
+                valor1 = decimal.Parse(txtValorDigitado.Text, CultureInfo.InvariantCulture);
             }
         }
 
@@ -206,6 +231,19 @@ namespace Aula_24_02_22
         private void btnLimparHistorico_Click(object sender, EventArgs e)
         {
             lstHistorico.Items.Clear();
+        }
+
+        private void BtBackspace_Click(object sender, EventArgs e)
+        {
+            int x = txtValorDigitado.Text.Length - 1;
+            if(x >=0)
+            {
+                txtValorDigitado.Text = txtValorDigitado.Text.Substring(0, x);
+            }
+            else
+            {
+                txtValorDigitado.Text = "0";
+            }
         }
 
         private void btnC_Click(object sender, EventArgs e)

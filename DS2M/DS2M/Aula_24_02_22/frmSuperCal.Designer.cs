@@ -56,6 +56,7 @@ namespace Aula_24_02_22
             this.lstHistorico = new System.Windows.Forms.ListBox();
             this.btnLimparHistorico = new System.Windows.Forms.Button();
             this.label1 = new System.Windows.Forms.Label();
+            this.btBackspace = new System.Windows.Forms.Button();
             this.tableLayoutPanel1.SuspendLayout();
             this.tableLayoutPanel2.SuspendLayout();
             this.tableLayoutPanel3.SuspendLayout();
@@ -97,7 +98,7 @@ namespace Aula_24_02_22
             this.btn3.Cursor = System.Windows.Forms.Cursors.Hand;
             this.btn3.FlatAppearance.BorderSize = 0;
             this.btn3.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btn3.Font = new System.Drawing.Font("Open Sans", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btn3.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn3.Location = new System.Drawing.Point(155, 228);
             this.btn3.Name = "btn3";
             this.btn3.Size = new System.Drawing.Size(72, 69);
@@ -114,7 +115,7 @@ namespace Aula_24_02_22
             this.btn2.Cursor = System.Windows.Forms.Cursors.Hand;
             this.btn2.FlatAppearance.BorderSize = 0;
             this.btn2.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btn2.Font = new System.Drawing.Font("Open Sans", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btn2.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn2.Location = new System.Drawing.Point(79, 228);
             this.btn2.Name = "btn2";
             this.btn2.Size = new System.Drawing.Size(70, 69);
@@ -131,7 +132,7 @@ namespace Aula_24_02_22
             this.btn1.Cursor = System.Windows.Forms.Cursors.Hand;
             this.btn1.FlatAppearance.BorderSize = 0;
             this.btn1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btn1.Font = new System.Drawing.Font("Open Sans", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btn1.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn1.Location = new System.Drawing.Point(3, 228);
             this.btn1.Name = "btn1";
             this.btn1.Size = new System.Drawing.Size(70, 69);
@@ -148,7 +149,7 @@ namespace Aula_24_02_22
             this.btn6.Cursor = System.Windows.Forms.Cursors.Hand;
             this.btn6.FlatAppearance.BorderSize = 0;
             this.btn6.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btn6.Font = new System.Drawing.Font("Open Sans", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btn6.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn6.Location = new System.Drawing.Point(155, 153);
             this.btn6.Name = "btn6";
             this.btn6.Size = new System.Drawing.Size(72, 69);
@@ -165,7 +166,7 @@ namespace Aula_24_02_22
             this.btn5.Cursor = System.Windows.Forms.Cursors.Hand;
             this.btn5.FlatAppearance.BorderSize = 0;
             this.btn5.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btn5.Font = new System.Drawing.Font("Open Sans", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btn5.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn5.Location = new System.Drawing.Point(79, 153);
             this.btn5.Name = "btn5";
             this.btn5.Size = new System.Drawing.Size(70, 69);
@@ -182,7 +183,7 @@ namespace Aula_24_02_22
             this.btn4.Cursor = System.Windows.Forms.Cursors.Hand;
             this.btn4.FlatAppearance.BorderSize = 0;
             this.btn4.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btn4.Font = new System.Drawing.Font("Open Sans", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btn4.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn4.Location = new System.Drawing.Point(3, 153);
             this.btn4.Name = "btn4";
             this.btn4.Size = new System.Drawing.Size(70, 69);
@@ -199,7 +200,7 @@ namespace Aula_24_02_22
             this.btn9.Cursor = System.Windows.Forms.Cursors.Hand;
             this.btn9.FlatAppearance.BorderSize = 0;
             this.btn9.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btn9.Font = new System.Drawing.Font("Open Sans", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btn9.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn9.Location = new System.Drawing.Point(155, 78);
             this.btn9.Name = "btn9";
             this.btn9.Size = new System.Drawing.Size(72, 69);
@@ -216,7 +217,7 @@ namespace Aula_24_02_22
             this.btn8.Cursor = System.Windows.Forms.Cursors.Hand;
             this.btn8.FlatAppearance.BorderSize = 0;
             this.btn8.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btn8.Font = new System.Drawing.Font("Open Sans", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btn8.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn8.Location = new System.Drawing.Point(79, 78);
             this.btn8.Name = "btn8";
             this.btn8.Size = new System.Drawing.Size(70, 69);
@@ -233,7 +234,7 @@ namespace Aula_24_02_22
             this.btn7.Cursor = System.Windows.Forms.Cursors.Hand;
             this.btn7.FlatAppearance.BorderSize = 0;
             this.btn7.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btn7.Font = new System.Drawing.Font("Open Sans", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btn7.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn7.Location = new System.Drawing.Point(3, 78);
             this.btn7.Name = "btn7";
             this.btn7.Size = new System.Drawing.Size(70, 69);
@@ -250,7 +251,7 @@ namespace Aula_24_02_22
             this.btnPorcentagem.Cursor = System.Windows.Forms.Cursors.Hand;
             this.btnPorcentagem.FlatAppearance.BorderSize = 0;
             this.btnPorcentagem.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnPorcentagem.Font = new System.Drawing.Font("Open Sans", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnPorcentagem.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnPorcentagem.Location = new System.Drawing.Point(155, 3);
             this.btnPorcentagem.Name = "btnPorcentagem";
             this.btnPorcentagem.Size = new System.Drawing.Size(72, 69);
@@ -267,7 +268,7 @@ namespace Aula_24_02_22
             this.btnCe.Cursor = System.Windows.Forms.Cursors.Hand;
             this.btnCe.FlatAppearance.BorderSize = 0;
             this.btnCe.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnCe.Font = new System.Drawing.Font("Open Sans", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnCe.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnCe.Location = new System.Drawing.Point(79, 3);
             this.btnCe.Name = "btnCe";
             this.btnCe.Size = new System.Drawing.Size(70, 69);
@@ -284,7 +285,7 @@ namespace Aula_24_02_22
             this.btnC.Cursor = System.Windows.Forms.Cursors.Hand;
             this.btnC.FlatAppearance.BorderSize = 0;
             this.btnC.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnC.Font = new System.Drawing.Font("Open Sans", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnC.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnC.Location = new System.Drawing.Point(3, 3);
             this.btnC.Name = "btnC";
             this.btnC.Size = new System.Drawing.Size(70, 69);
@@ -323,7 +324,7 @@ namespace Aula_24_02_22
             this.btnCalculo.Cursor = System.Windows.Forms.Cursors.Hand;
             this.btnCalculo.FlatAppearance.BorderSize = 0;
             this.btnCalculo.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnCalculo.Font = new System.Drawing.Font("Open Sans", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnCalculo.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnCalculo.ForeColor = System.Drawing.SystemColors.ControlLightLight;
             this.btnCalculo.Location = new System.Drawing.Point(3, 303);
             this.btnCalculo.Name = "btnCalculo";
@@ -341,7 +342,7 @@ namespace Aula_24_02_22
             this.btnDivisao.Cursor = System.Windows.Forms.Cursors.Hand;
             this.btnDivisao.FlatAppearance.BorderSize = 0;
             this.btnDivisao.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnDivisao.Font = new System.Drawing.Font("Open Sans", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnDivisao.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnDivisao.ForeColor = System.Drawing.SystemColors.ControlLightLight;
             this.btnDivisao.Location = new System.Drawing.Point(3, 3);
             this.btnDivisao.Name = "btnDivisao";
@@ -359,7 +360,7 @@ namespace Aula_24_02_22
             this.btnMultiplicacao.Cursor = System.Windows.Forms.Cursors.Hand;
             this.btnMultiplicacao.FlatAppearance.BorderSize = 0;
             this.btnMultiplicacao.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnMultiplicacao.Font = new System.Drawing.Font("Open Sans", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnMultiplicacao.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnMultiplicacao.ForeColor = System.Drawing.SystemColors.ControlLightLight;
             this.btnMultiplicacao.Location = new System.Drawing.Point(3, 78);
             this.btnMultiplicacao.Name = "btnMultiplicacao";
@@ -377,7 +378,7 @@ namespace Aula_24_02_22
             this.btnsubtracao.Cursor = System.Windows.Forms.Cursors.Hand;
             this.btnsubtracao.FlatAppearance.BorderSize = 0;
             this.btnsubtracao.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnsubtracao.Font = new System.Drawing.Font("Open Sans", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnsubtracao.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnsubtracao.ForeColor = System.Drawing.SystemColors.ControlLightLight;
             this.btnsubtracao.Location = new System.Drawing.Point(3, 153);
             this.btnsubtracao.Name = "btnsubtracao";
@@ -395,7 +396,7 @@ namespace Aula_24_02_22
             this.btnSoma.Cursor = System.Windows.Forms.Cursors.Hand;
             this.btnSoma.FlatAppearance.BorderSize = 0;
             this.btnSoma.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnSoma.Font = new System.Drawing.Font("Open Sans", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnSoma.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnSoma.ForeColor = System.Drawing.SystemColors.ControlLightLight;
             this.btnSoma.Location = new System.Drawing.Point(3, 228);
             this.btnSoma.Name = "btnSoma";
@@ -427,7 +428,7 @@ namespace Aula_24_02_22
             this.btnPonto.Cursor = System.Windows.Forms.Cursors.Hand;
             this.btnPonto.FlatAppearance.BorderSize = 0;
             this.btnPonto.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnPonto.Font = new System.Drawing.Font("Open Sans", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnPonto.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnPonto.Location = new System.Drawing.Point(152, 3);
             this.btnPonto.Name = "btnPonto";
             this.btnPonto.Size = new System.Drawing.Size(69, 70);
@@ -444,7 +445,7 @@ namespace Aula_24_02_22
             this.btn0.Cursor = System.Windows.Forms.Cursors.Hand;
             this.btn0.FlatAppearance.BorderSize = 0;
             this.btn0.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btn0.Font = new System.Drawing.Font("Open Sans", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btn0.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn0.Location = new System.Drawing.Point(3, 3);
             this.btn0.Name = "btn0";
             this.btn0.Size = new System.Drawing.Size(143, 70);
@@ -456,7 +457,7 @@ namespace Aula_24_02_22
             // txtValorDigitado
             // 
             this.txtValorDigitado.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.txtValorDigitado.Font = new System.Drawing.Font("Open Sans", 40.75F);
+            this.txtValorDigitado.Font = new System.Drawing.Font("Microsoft Sans Serif", 40.75F);
             this.txtValorDigitado.Location = new System.Drawing.Point(3, 1);
             this.txtValorDigitado.Multiline = true;
             this.txtValorDigitado.Name = "txtValorDigitado";
@@ -470,22 +471,22 @@ namespace Aula_24_02_22
             | System.Windows.Forms.AnchorStyles.Left)));
             this.lblOperacao.AutoSize = true;
             this.lblOperacao.BackColor = System.Drawing.SystemColors.ControlLightLight;
-            this.lblOperacao.Font = new System.Drawing.Font("Open Sans", 20.25F);
+            this.lblOperacao.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F);
             this.lblOperacao.Location = new System.Drawing.Point(7, 27);
             this.lblOperacao.Margin = new System.Windows.Forms.Padding(0);
             this.lblOperacao.Name = "lblOperacao";
-            this.lblOperacao.Size = new System.Drawing.Size(0, 37);
+            this.lblOperacao.Size = new System.Drawing.Size(0, 31);
             this.lblOperacao.TabIndex = 5;
             // 
             // lstHistorico
             // 
             this.lstHistorico.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.lstHistorico.Font = new System.Drawing.Font("Open Sans", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lstHistorico.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lstHistorico.FormattingEnabled = true;
-            this.lstHistorico.ItemHeight = 22;
+            this.lstHistorico.ItemHeight = 20;
             this.lstHistorico.Location = new System.Drawing.Point(337, 40);
             this.lstHistorico.Name = "lstHistorico";
-            this.lstHistorico.Size = new System.Drawing.Size(198, 418);
+            this.lstHistorico.Size = new System.Drawing.Size(198, 400);
             this.lstHistorico.TabIndex = 6;
             // 
             // btnLimparHistorico
@@ -493,33 +494,45 @@ namespace Aula_24_02_22
             this.btnLimparHistorico.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
+            this.btnLimparHistorico.BackColor = System.Drawing.Color.Transparent;
             this.btnLimparHistorico.Cursor = System.Windows.Forms.Cursors.Hand;
             this.btnLimparHistorico.FlatAppearance.BorderSize = 0;
             this.btnLimparHistorico.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnLimparHistorico.Font = new System.Drawing.Font("Open Sans", 10.75F);
+            this.btnLimparHistorico.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.75F);
             this.btnLimparHistorico.Location = new System.Drawing.Point(456, 423);
             this.btnLimparHistorico.Name = "btnLimparHistorico";
             this.btnLimparHistorico.Size = new System.Drawing.Size(69, 30);
             this.btnLimparHistorico.TabIndex = 13;
             this.btnLimparHistorico.Text = "Limpar";
-            this.btnLimparHistorico.UseVisualStyleBackColor = true;
+            this.btnLimparHistorico.UseVisualStyleBackColor = false;
             this.btnLimparHistorico.Click += new System.EventHandler(this.btnLimparHistorico_Click);
             // 
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Font = new System.Drawing.Font("Open Sans Semibold", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.Location = new System.Drawing.Point(337, 9);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(103, 28);
+            this.label1.Size = new System.Drawing.Size(105, 25);
             this.label1.TabIndex = 14;
             this.label1.Text = "Histórico";
+            // 
+            // btBackspace
+            // 
+            this.btBackspace.Location = new System.Drawing.Point(448, 9);
+            this.btBackspace.Name = "btBackspace";
+            this.btBackspace.Size = new System.Drawing.Size(75, 23);
+            this.btBackspace.TabIndex = 15;
+            this.btBackspace.Text = "<X|";
+            this.btBackspace.UseVisualStyleBackColor = true;
+            this.btBackspace.Click += new System.EventHandler(this.BtBackspace_Click);
             // 
             // frmSuperCal
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(537, 461);
+            this.Controls.Add(this.btBackspace);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.btnLimparHistorico);
             this.Controls.Add(this.lstHistorico);
@@ -568,5 +581,6 @@ namespace Aula_24_02_22
         private System.Windows.Forms.ListBox lstHistorico;
         private System.Windows.Forms.Button btnLimparHistorico;
         private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.Button btBackspace;
     }
 }

@@ -19,23 +19,68 @@ namespace Aula_24_02_22
 
         private void comRadionsButtonsToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            frmCalRadio objCalRadio = new frmCalRadio();
-            objCalRadio.MdiParent = this;
-            objCalRadio.Show();
+            bool janela = false;
+
+            foreach (Form i in Application.OpenForms)
+            {
+                if (i.Text == "frmCalRadio")
+                {
+                    janela = true;
+                    i.BringToFront();
+                    break;
+                }
+            }
+
+            if (janela == false)
+            {
+                frmCalRadio objCalRadio = new frmCalRadio();
+                objCalRadio.MdiParent = this;
+                objCalRadio.Show();
+            }
         }
 
         private void comBotõesToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            frmCalBot objCalBot = new frmCalBot();
-            objCalBot.MdiParent = this;
-            objCalBot.Show();
+            bool janela = false;
+
+            foreach (Form i in Application.OpenForms)
+            {
+                if (i.Text == "frmCalBot")
+                {
+                    janela = true;
+                    i.BringToFront();
+                    break;
+                }
+            }
+
+            if (janela == false)
+            {
+                frmCalBot objCalBot = new frmCalBot();
+                objCalBot.MdiParent = this;
+                objCalBot.Show();
+            }
         }
 
         private void calculadorSuperToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            frmSuperCal objSuperCal = new frmSuperCal();
-            objSuperCal.MdiParent = this;
-            objSuperCal.Show();
+            bool janela = false;
+
+            foreach (Form i in Application.OpenForms)
+            {
+                if (i.Text == "Calculadora Super")
+                {
+                    janela = true;
+                    i.BringToFront();
+                    break;
+                }
+            }
+
+            if(janela == false)
+            {
+                frmSuperCal objSuperCal = new frmSuperCal();
+                objSuperCal.MdiParent = this;
+                objSuperCal.Show();
+            }
         }
 
         private void horizontalmenteToolStripMenuItem_Click(object sender, EventArgs e)

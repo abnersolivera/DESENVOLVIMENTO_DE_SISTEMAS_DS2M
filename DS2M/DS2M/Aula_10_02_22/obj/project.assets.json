@@ -1,37 +1,44 @@
 {
   "version": 3,
   "targets": {
-    "net5.0-windows7.0": {}
+    ".NETFramework,Version=v5.0,Profile=windows": {}
   },
   "libraries": {},
   "projectFileDependencyGroups": {
-    "net5.0-windows7.0": []
+    ".NETFramework,Version=v5.0,Profile=windows": []
   },
   "packageFolders": {
-    "C:\\Users\\abner\\.nuget\\packages\\": {}
+    "C:\\Users\\LabInfo_2022\\.nuget\\packages\\": {},
+    "C:\\ProgramData\\Xamarin\\NuGet\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\abner\\Documents\\ETEC\\2 Modulo\\DS\\ESTUDO\\DESENVOLVIMENTO_DE_SISTEMAS_DS2M\\DS2M\\DS2M\\Aula_10_02_22\\Aula_10_02_22.csproj",
+      "projectUniqueName": "D:\\DS 2 SEMESTRE\\DS2M\\DS2M\\Aula_10_02_22\\Aula_10_02_22.csproj",
       "projectName": "Aula_10_02_22",
-      "projectPath": "C:\\Users\\abner\\Documents\\ETEC\\2 Modulo\\DS\\ESTUDO\\DESENVOLVIMENTO_DE_SISTEMAS_DS2M\\DS2M\\DS2M\\Aula_10_02_22\\Aula_10_02_22.csproj",
-      "packagesPath": "C:\\Users\\abner\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\abner\\Documents\\ETEC\\2 Modulo\\DS\\ESTUDO\\DESENVOLVIMENTO_DE_SISTEMAS_DS2M\\DS2M\\DS2M\\Aula_10_02_22\\obj\\",
+      "projectPath": "D:\\DS 2 SEMESTRE\\DS2M\\DS2M\\Aula_10_02_22\\Aula_10_02_22.csproj",
+      "packagesPath": "C:\\Users\\LabInfo_2022\\.nuget\\packages\\",
+      "outputPath": "D:\\DS 2 SEMESTRE\\DS2M\\DS2M\\Aula_10_02_22\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\ProgramData\\Xamarin\\NuGet\\",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\abner\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\LabInfo_2022\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "net5.0-windows7.0"
+        "net50-windows"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net5.0-windows7.0": {
-          "targetAlias": "net5.0-windows",
+        "net50-windows": {
           "projectReferences": {}
         }
       },
@@ -42,28 +49,7 @@
       }
     },
     "frameworks": {
-      "net5.0-windows7.0": {
-        "targetAlias": "net5.0-windows",
-        "imports": [
-          "net461",
-          "net462",
-          "net47",
-          "net471",
-          "net472",
-          "net48"
-        ],
-        "assetTargetFallback": true,
-        "warn": true,
-        "frameworkReferences": {
-          "Microsoft.NETCore.App": {
-            "privateAssets": "all"
-          },
-          "Microsoft.WindowsDesktop.App.WindowsForms": {
-            "privateAssets": "none"
-          }
-        },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
-      }
+      "net50-windows": {}
     }
   }
 }
