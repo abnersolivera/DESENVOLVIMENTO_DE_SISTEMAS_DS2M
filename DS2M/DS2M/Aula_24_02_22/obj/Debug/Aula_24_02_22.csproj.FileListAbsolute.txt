@@ -36,5 +36,5 @@ F:\DS 2 SEMESTRE\DS2M\DS2M\Aula_24_02_22\obj\Debug\Aula_24_02_22.csproj.Generate
 F:\DS 2 SEMESTRE\DS2M\DS2M\Aula_24_02_22\obj\Debug\Aula_24_02_22.csproj.CoreCompileInputs.cache
 F:\DS 2 SEMESTRE\DS2M\DS2M\Aula_24_02_22\obj\Debug\Aula_24_02_22.exe
 F:\DS 2 SEMESTRE\DS2M\DS2M\Aula_24_02_22\obj\Debug\Aula_24_02_22.pdb
-D:\DS 2 SEMESTRE\DS2M\DS2M\Aula_24_02_22\obj\Debug\Aula_24_02_22.csprojAssemblyReference.cache
 D:\DS 2 SEMESTRE\DS2M\DS2M\Aula_24_02_22\obj\Debug\Aula_24_02_22.frmSuperCal.resources
+D:\DS 2 SEMESTRE\DS2M\DS2M\Aula_24_02_22\obj\Debug\Aula_24_02_22.csprojAssemblyReference.cache

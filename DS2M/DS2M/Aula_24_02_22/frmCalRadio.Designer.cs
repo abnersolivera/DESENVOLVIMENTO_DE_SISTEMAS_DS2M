@@ -146,6 +146,7 @@ namespace Aula_24_02_22
             this.txtNum2.Name = "txtNum2";
             this.txtNum2.Size = new System.Drawing.Size(76, 20);
             this.txtNum2.TabIndex = 0;
+            this.txtNum2.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.TxtNum2_KeyPress);
             // 
             // txtNum1
             // 
@@ -153,6 +154,7 @@ namespace Aula_24_02_22
             this.txtNum1.Name = "txtNum1";
             this.txtNum1.Size = new System.Drawing.Size(76, 20);
             this.txtNum1.TabIndex = 0;
+            this.txtNum1.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.TxtNum1_KeyPress);
             // 
             // btnCalcular
             // 

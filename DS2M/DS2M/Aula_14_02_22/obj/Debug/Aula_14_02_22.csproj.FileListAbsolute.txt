@@ -29,3 +29,13 @@ E:\DS 2 SEMESTRE\DS2M\DS2M\Aula_14_02_22\obj\Debug\Aula_14_02_22.csproj.CoreComp
 E:\DS 2 SEMESTRE\DS2M\DS2M\Aula_14_02_22\obj\Debug\Aula_14_02_22.exe
 E:\DS 2 SEMESTRE\DS2M\DS2M\Aula_14_02_22\obj\Debug\Aula_14_02_22.pdb
 E:\DS 2 SEMESTRE\DS2M\DS2M\Aula_14_02_22\obj\Debug\Aula_14_02_22.csprojAssemblyReference.cache
+D:\DS 2 SEMESTRE\DS2M\DS2M\Aula_14_02_22\bin\Debug\Aula_14_02_22.exe.config
+D:\DS 2 SEMESTRE\DS2M\DS2M\Aula_14_02_22\bin\Debug\Aula_14_02_22.exe
+D:\DS 2 SEMESTRE\DS2M\DS2M\Aula_14_02_22\bin\Debug\Aula_14_02_22.pdb
+D:\DS 2 SEMESTRE\DS2M\DS2M\Aula_14_02_22\obj\Debug\Aula_14_02_22.csproj.AssemblyReference.cache
+D:\DS 2 SEMESTRE\DS2M\DS2M\Aula_14_02_22\obj\Debug\Aula_14_02_22.frmCal.resources
+D:\DS 2 SEMESTRE\DS2M\DS2M\Aula_14_02_22\obj\Debug\Aula_14_02_22.Properties.Resources.resources
+D:\DS 2 SEMESTRE\DS2M\DS2M\Aula_14_02_22\obj\Debug\Aula_14_02_22.csproj.GenerateResource.cache
+D:\DS 2 SEMESTRE\DS2M\DS2M\Aula_14_02_22\obj\Debug\Aula_14_02_22.csproj.CoreCompileInputs.cache
+D:\DS 2 SEMESTRE\DS2M\DS2M\Aula_14_02_22\obj\Debug\Aula_14_02_22.exe
+D:\DS 2 SEMESTRE\DS2M\DS2M\Aula_14_02_22\obj\Debug\Aula_14_02_22.pdb

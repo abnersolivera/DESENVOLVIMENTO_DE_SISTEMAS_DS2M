@@ -83,5 +83,21 @@ namespace Aula_24_02_22
         {
 
         }
+
+        private void TxtNum1_KeyPress(object sender, KeyPressEventArgs e)
+        {//Aula no dia 10/03/22
+            if (!(char.IsDigit(e.KeyChar) || char.IsControl(e.KeyChar) || e.KeyChar.ToString()==","))
+            {
+                e.Handled = true; // Desconsidera o pressionamento
+            }
+        }
+
+        private void TxtNum2_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            if (!(char.IsDigit(e.KeyChar) || char.IsControl(e.KeyChar) || e.KeyChar.ToString() == ","))
+            {
+                e.Handled = true; // Desconsidera o pressionamento
+            }
+        }
     }
 }

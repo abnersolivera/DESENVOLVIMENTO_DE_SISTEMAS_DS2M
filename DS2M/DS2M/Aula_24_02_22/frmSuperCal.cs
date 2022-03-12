@@ -242,7 +242,7 @@ namespace Aula_24_02_22
             }
             else
             {
-                txtValorDigitado.Text = "0";
+                txtValorDigitado.Text = "";
             }
         }
 

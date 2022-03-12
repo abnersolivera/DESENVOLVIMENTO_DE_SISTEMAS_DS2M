@@ -523,7 +523,7 @@ namespace Aula_24_02_22
             this.btBackspace.Name = "btBackspace";
             this.btBackspace.Size = new System.Drawing.Size(75, 23);
             this.btBackspace.TabIndex = 15;
-            this.btBackspace.Text = "<X|";
+            this.btBackspace.Text = "< | x |";
             this.btBackspace.UseVisualStyleBackColor = true;
             this.btBackspace.Click += new System.EventHandler(this.BtBackspace_Click);
             // 
