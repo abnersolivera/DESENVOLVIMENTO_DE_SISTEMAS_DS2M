@@ -57,6 +57,7 @@ namespace Aula_24_02_22
             this.btnLimparHistorico = new System.Windows.Forms.Button();
             this.label1 = new System.Windows.Forms.Label();
             this.btBackspace = new System.Windows.Forms.Button();
+            this.btnMasMenos = new System.Windows.Forms.Button();
             this.tableLayoutPanel1.SuspendLayout();
             this.tableLayoutPanel2.SuspendLayout();
             this.tableLayoutPanel3.SuspendLayout();
@@ -501,7 +502,7 @@ namespace Aula_24_02_22
             this.btnLimparHistorico.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.75F);
             this.btnLimparHistorico.Location = new System.Drawing.Point(456, 423);
             this.btnLimparHistorico.Name = "btnLimparHistorico";
-            this.btnLimparHistorico.Size = new System.Drawing.Size(69, 30);
+            this.btnLimparHistorico.Size = new System.Drawing.Size(69, 105);
             this.btnLimparHistorico.TabIndex = 13;
             this.btnLimparHistorico.Text = "Limpar";
             this.btnLimparHistorico.UseVisualStyleBackColor = false;
@@ -527,11 +528,22 @@ namespace Aula_24_02_22
             this.btBackspace.UseVisualStyleBackColor = true;
             this.btBackspace.Click += new System.EventHandler(this.BtBackspace_Click);
             // 
+            // btnMasMenos
+            // 
+            this.btnMasMenos.Location = new System.Drawing.Point(354, 465);
+            this.btnMasMenos.Name = "btnMasMenos";
+            this.btnMasMenos.Size = new System.Drawing.Size(75, 23);
+            this.btnMasMenos.TabIndex = 16;
+            this.btnMasMenos.Text = "+/-";
+            this.btnMasMenos.UseVisualStyleBackColor = true;
+            this.btnMasMenos.Click += new System.EventHandler(this.BtnMasMenos_Click);
+            // 
             // frmSuperCal
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(537, 461);
+            this.ClientSize = new System.Drawing.Size(537, 536);
+            this.Controls.Add(this.btnMasMenos);
             this.Controls.Add(this.btBackspace);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.btnLimparHistorico);
@@ -582,5 +594,6 @@ namespace Aula_24_02_22
         private System.Windows.Forms.Button btnLimparHistorico;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Button btBackspace;
+        private System.Windows.Forms.Button btnMasMenos;
     }
 }

@@ -27,7 +27,15 @@ namespace Aula_24_02_22
 
         private void btn1_Click(object sender, EventArgs e)
         {
-            txtValorDigitado.Text += "1";
+            if(txtValorDigitado.Text == "0")
+            {
+                txtValorDigitado.Text = "1";
+
+            }
+            else
+            {
+                txtValorDigitado.Text += "1";
+            }
         }
 
         private void btn2_Click(object sender, EventArgs e)
@@ -72,7 +80,11 @@ namespace Aula_24_02_22
 
         private void btnPonto_Click(object sender, EventArgs e)
         {
-            txtValorDigitado.Text += ".";
+            if (!txtValorDigitado.Text.Contains(","))
+            {
+                txtValorDigitado.Text += ",";
+                
+            }
         }
 
         private void btnCalculo_Click(object sender, EventArgs e)
@@ -185,9 +197,10 @@ namespace Aula_24_02_22
             }
             catch (DivideByZeroException)
             {
-                lblOperacao.Text = "";
                 MessageBox.Show("O valor não é divisivel");
-                valor1 = decimal.Parse(txtValorDigitado.Text, CultureInfo.InvariantCulture);
+                lblOperacao.Text = "";
+                valor1 = 0;
+                valor2 = 0;
             }
         }
 
@@ -220,7 +233,20 @@ namespace Aula_24_02_22
             {
                 MessageBox.Show("ERRO!\nFavor digitar a operação desejada\nE o número para realizar a operação");
                 valor1 = decimal.Parse(txtValorDigitado.Text, CultureInfo.InvariantCulture);
+               
             }
+
+            if(valor1 != 0 || valor2 != 0 || operacao != "")
+            {
+                valor1 = decimal.Parse(txtValorDigitado.Text, CultureInfo.InvariantCulture);
+                txtValorDigitado.Text = "";
+
+                if (valor1 != 0 || valor2 != 0 || operacao == "SOMA")
+                {
+                    txtValorDigitado.Text = Convert.ToString(valor1 + valor2);
+                }
+            }
+
         }
 
         private void btnCe_Click(object sender, EventArgs e)
@@ -236,14 +262,21 @@ namespace Aula_24_02_22
         private void BtBackspace_Click(object sender, EventArgs e)
         {
             int x = txtValorDigitado.Text.Length - 1;
-            if(x >=0)
+            if(x >= 0)
             {
                 txtValorDigitado.Text = txtValorDigitado.Text.Substring(0, x);
+                if(txtValorDigitado.Text == "")
+                {
+                    txtValorDigitado.Text += "0";
+                }
             }
-            else
-            {
-                txtValorDigitado.Text = "";
-            }
+        }
+
+        private void BtnMasMenos_Click(object sender, EventArgs e)
+        {
+            valor1 = decimal.Parse(txtValorDigitado.Text, CultureInfo.InvariantCulture);
+            valor1 *= -1;
+            txtValorDigitado.Text = valor1.ToString();
         }
 
         private void btnC_Click(object sender, EventArgs e)

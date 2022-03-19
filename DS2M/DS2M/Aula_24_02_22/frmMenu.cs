@@ -100,9 +100,20 @@ namespace Aula_24_02_22
 
         private void sairToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            Application.Exit();
+            Close();
         }
 
+        private void tsbCalculoBot_Click(object sender, EventArgs e)
+        {
+            calculadorSuperToolStripMenuItem_Click(sender, e);
+        }
 
+        private void frmMenu_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            if (MessageBox.Show("Deseja realmente sair","Saindo",MessageBoxButtons.YesNo,MessageBoxIcon.Question,MessageBoxDefaultButton.Button2)==DialogResult.No)
+            {
+                e.Cancel = true;
+            }
+        }
     }
 }
